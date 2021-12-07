@@ -1,0 +1,8 @@
+# TypeScript
+.ts-cache
+
+# Parcel
+.parcel-cache
+dist
+
+node_modules
